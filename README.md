@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo-spear.png" alt="SPEAR Banner" width="50%">
+  <img src="src/assets/logo-spear(2).png" alt="SPEAR Banner" width="50%">
 </p>
 <p align="center">
 A standardized framework for capturing authentic human behavior in search and AI-chat experiments.
