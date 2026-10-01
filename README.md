@@ -17,7 +17,7 @@ This repository contains the frontend application for **SPEAR**. It provides the
 Built with **React**, this application communicates with the backend API to manage experiment flows, authentication, task rendering, and data submission.
 
 > **⚠️ Note:** If you want to run the full stack (Frontend + Backend +
-> Database) together, please refer to the [Searchat Behavior Parent
+> Database) together, please refer to the [SPEAR Parent
 > Repository](https://github.com/lapic-ufjf/spear).
 > The instructions below are strictly for running the frontend
 > **independently** for isolated development or testing.
